@@ -1,0 +1,6 @@
+to ignore folder : folder_name/
+to ignore file   : file_name
+
+
+logs/
+mylog.log

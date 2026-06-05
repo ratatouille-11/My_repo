@@ -1,6 +1,6 @@
 to ignore folder : folder_name/
 to ignore file   : file_name
+to ignore main folder file only : /file_name
 
-
-logs/
-mylog.log
+/mylog.log
+processing...
